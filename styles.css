@@ -35,9 +35,10 @@ ul {
     margin: 0 ;
 }
 .parabutton {
-    display: inline-flex;
+    display: flex;
     flex-direction: column;
     align-self: flex-start;
+    flex: 0 1 auto;
 }
 .placeholder {
     display: flex;
@@ -69,4 +70,9 @@ ul {
     background-color: #3882f6;
     color: white;
     text-align: center;
+    padding: 4px 8px;
+    flex: 0 0 auto;
+    width: 100px;
+    margin: 0;
+    border-radius: 10px;
 }

@@ -43,8 +43,10 @@ ul {
     display: flex;
     flex: 0 1 auto;
     align-self: flex-start;
+    justify-content: center;
 }
 .wrapper {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }

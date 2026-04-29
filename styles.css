@@ -39,4 +39,7 @@ ul {
     flex-direction: column;
     align-self: flex-start;
 }
-
+.placeholder {
+    display: flex;
+    
+}

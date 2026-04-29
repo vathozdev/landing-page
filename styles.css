@@ -39,7 +39,4 @@ ul {
     flex-direction: column;
     align-self: flex-start;
 }
-.parabutton button {
-    flex: 0 0 auto;
-}  
- 
+

@@ -39,6 +39,7 @@ ul {
     flex-direction: column;
     align-self: flex-start;
     flex: 0 1 auto;
+    gap: 12px;
 }
 .placeholder {
     display: flex;
@@ -62,13 +63,13 @@ ul {
     font-weight: 900;
     color: #f9faf8;
     margin: 0;
-    padding: 8px 12px;
+
 }
 #secondtext {
     font-size: 18px;
     color: #E5E7EB;
     margin: 0;
-    padding: 8px 12px;
+
 }
 .parabutton button {
     background-color: #3882f6;

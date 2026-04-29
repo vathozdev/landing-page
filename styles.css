@@ -56,3 +56,12 @@ ul {
     flex-direction: row;
     justify-content: space-around;
 }
+#maintext {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+#secondtext {
+    font-size: 18px;
+    color: #E5E7EB;
+}

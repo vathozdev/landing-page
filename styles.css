@@ -34,3 +34,12 @@ ul {
 .navbar h1 {
     margin: 0 ;
 }
+.parabutton {
+    display: inline-flex;
+    flex-direction: column;
+    align-self: flex-start;
+}
+.parabutton button {
+    flex: 0 0 auto;
+}  
+ 

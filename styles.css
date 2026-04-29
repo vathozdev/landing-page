@@ -41,5 +41,6 @@ ul {
 }
 .placeholder {
     display: flex;
-    
+    flex: 0 1 auto;
+    align-self: flex-start;
 }

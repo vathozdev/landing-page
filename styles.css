@@ -20,9 +20,9 @@ footer {
 }
 .navbar {
     display: flex;
-    justify-content: space-between;
-    margin: 8px 48px 48px 8px ;
-    
+    justify-content: space-around;
+    gap: 512px;
+    margin: 8px 48px 48px 8px;
 }
 ul {
     list-style: none;

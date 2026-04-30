@@ -94,11 +94,15 @@ ul {
     text-align: center;
 }
 .card div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     border: 4px solid #3882F6;
     width: 200px;
     height: 150px;
     border-radius: 8px;
     box-sizing: border-box;
+    text-align: center;
 }
 .card {
     display: flex;

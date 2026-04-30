@@ -98,6 +98,7 @@ ul {
     width: 200px;
     height: 150px;
     border-radius: 8px;
+    box-sizing: border-box;
 }
 .card {
     display: flex;
@@ -106,6 +107,6 @@ ul {
     align-items: center;
 }
 .card p {
-    width: 150px;
+    width: 200px;
 
 }

@@ -114,3 +114,9 @@ ul {
     width: 200px;
 
 }
+.graypart {
+    background-color: #e5e8eb;
+    font-size: 300;
+    font: 36px;
+    color: #1F2937;
+}

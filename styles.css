@@ -116,11 +116,12 @@ ul {
 }
 .graypart {
     background-color: #e5e8eb;
-    font-weight: 300;
-    font: 36px;
     color: #1F2937;
     display: flex;
     flex-direction: column;
     align-self: stretch;
     
+}
+.quote {
+    font-size: 36px;
 }

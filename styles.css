@@ -120,6 +120,8 @@ ul {
     display: flex;
     flex-direction: column;
     align-self: stretch;
+    padding: 86px 96px;
+    margin: 16px 0 16px 0;
     
 }
 .quote {

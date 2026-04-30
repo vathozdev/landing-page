@@ -91,3 +91,9 @@ ul {
 .midcontainer {
     display: flex;
 }
+.card div {
+    border: 4px solid #3882F6;
+    width: 200px;
+    height: 150px;
+    border-radius: 8px;
+}

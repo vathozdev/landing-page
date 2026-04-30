@@ -130,5 +130,7 @@ ul {
     align-self: center;
 }
 .author {
-    
+    align-self: flex-end;
+    font-weight: bold;
+    margin-top: 16px;
 }

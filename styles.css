@@ -83,3 +83,7 @@ ul {
     border-radius: 10px;
     font-weight: bold;
 }
+.infosection {
+    display: flex;
+    
+}

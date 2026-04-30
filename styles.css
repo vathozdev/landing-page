@@ -97,3 +97,8 @@ ul {
     height: 150px;
     border-radius: 8px;
 }
+.card {
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 0;
+}

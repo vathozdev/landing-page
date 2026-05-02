@@ -44,9 +44,11 @@ ul {
     display: flex;
     gap: 16px;
     align-items: center;
+    font-size: 16px;
 }
 .navbar h1 {
     margin: 0 ;
+    font-size: 24px;
 }
 .parabutton {
     display: flex;
@@ -158,8 +160,10 @@ ul {
     display: flex;
     align-items: center;
     gap: 32px;
-    padding: 16px 32px;
+    padding: 24px 48px;
     margin: 36px 48px;
+    width: 800px;
+    justify-content: space-around;
 }
 #signup {
     background-color: inherit;

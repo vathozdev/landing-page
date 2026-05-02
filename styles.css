@@ -161,3 +161,11 @@ ul {
     padding: 16px 32px;
     margin: 36px 48px;
 }
+#signup {
+    background-color: inherit;
+    border: 3px solid white;
+    border-radius: 6px;
+    width: 90px;
+    height: 30px;
+    color: inherit;
+}

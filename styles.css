@@ -66,8 +66,8 @@ ul {
     align-items: center;
     background-color: gray;
     color: white;
-    margin: 0 0 48px -64px;
     height: 200px;
+    margin: 0;
 }
 .wrapper {
     display: flex;
@@ -140,7 +140,7 @@ ul {
     align-self: stretch;
     padding: 86px 96px;
     margin: 16px 0 16px 0;
-    height: 350px;
+    
     justify-content: center;
     
 }

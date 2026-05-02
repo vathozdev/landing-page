@@ -142,3 +142,7 @@ ul {
     font-weight: bold;
     margin-top: 16px;
 }
+.bluecontainer {
+    background-color: #3882f6;
+    color: #f9faf8;
+}

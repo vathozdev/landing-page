@@ -145,4 +145,8 @@ ul {
 .bluecontainer {
     background-color: #3882f6;
     color: #f9faf8;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding: 16px 32px;
 }

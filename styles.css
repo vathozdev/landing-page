@@ -74,10 +74,11 @@ ul {
 }
 .wrapper {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     gap: 48px;
+    max-width: 1400px;
+    margin: 0 auto;
 }
 #maintext {
     font-size: 48px;
